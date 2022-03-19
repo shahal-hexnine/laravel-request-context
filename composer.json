@@ -1,5 +1,5 @@
 {
-  "name": "scuttlebyte/laravel-request-context",
+  "name": "shahal-hexnine/laravel-request-context",
   "description": "Store and access contextual request data with ease",
   "type": "library",
   "require-dev": {
